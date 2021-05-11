@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SundinFoto
 - 👀 I’m interested in photography and data science
-- 🌱 I’m currently learning GUI for Python
-- 📫 How to reach me here on Github
+- 🌱 I’m currently learning tkinter and PyQt
 
 <!---
 SundinFoto/SundinFoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
